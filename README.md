@@ -1,1 +1,1 @@
-# USA-Volcano-Mapping-and-Visualization
+This project visualizes volcanic locations across the U.S. by transforming JSON data into an interactive map using Python's Folium library. Each volcano is represented as a circle marker on the map, color-coded according to its elevation: green for low, orange for medium, and red for high elevations. The map also incorporates a GeoJSON overlay for additional geographic context, providing an informative tool for geographical data analysis and visualization.
